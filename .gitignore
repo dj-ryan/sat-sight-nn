@@ -1,0 +1,5 @@
+# Exclude data directory
+data/
+
+# Exclude models directory
+models/
